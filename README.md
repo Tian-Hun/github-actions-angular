@@ -1,4 +1,5 @@
-# GithubActionsAngular
+# Github Actions Angular
+[![build status](https://github.com/Tian-Hun/github-actions-angular/workflows/Github Actions Build/badge.svg)](https://github.com/Tian-Hun/github-actions-angular/actions)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0-rc.4.
 
